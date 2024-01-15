@@ -1,7 +1,7 @@
 name: Minion
 version: 1.0.0
 api: 5.0.0
-author: Tanmay
+author: Tanmay And Master
 main: Tanmay\minion\Main
 commands:
   minionegg:
