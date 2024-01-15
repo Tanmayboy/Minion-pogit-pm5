@@ -5,4 +5,7 @@ branches:
 projects:
   Minion-pogit-pm5:
     path: ""
+requirements:
+  - name: DevTools
+    version: "1.17.1"
 ...
