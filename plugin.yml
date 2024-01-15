@@ -1,0 +1,14 @@
+name: Minion
+version: 1.0.0
+api: 5.0.0
+author: Tanmay
+main: Tanmay\minion\Main
+commands:
+  minionegg:
+    description: Spawns a minion egg
+    usage: /minionegg [type]
+    permission: minion.command.spawnminion  # Add this line
+permissions:
+  minion.command.spawnminion:
+    description: Allows players to use /minionegg command
+    default: op
